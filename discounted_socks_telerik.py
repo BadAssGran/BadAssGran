@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 11:25:34 2021
 
-@author: Teodora
-"""
 """
 Socks Day Sale 
 Your friend owns a socks store, where he sells lots of fun and colorful socks. He is planning a huge sale for the National Socks Day(4th of December) and he has asked you to help him with the calculations of each order. The rules are simple - your friend wants to keep his standard price for a pair of socks but with each consecutive purchase a certain discount should be received. However, the price per pair should not go down below a certain amount. Essentially your friend wants for the customers to be able to input an amount they are willing to spend - then it is up to us to calculate the total pairs they will receive. What we will know is:
