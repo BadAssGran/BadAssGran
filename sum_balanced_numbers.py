@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Apr  5 19:41:28 2021
+Calculate the sum of balanced numbers
 
-@author: Teodora
+Balanced 3-digit numbers are those for which 1st plus last digit equal the middle digit (e.g. 242, 121, etc.).
+The numbers are read as user input, one at a time. The sum calculation continues until a non-balanced number is given.
+
 """
 import math
 
