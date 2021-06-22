@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Crooked Sum
 
-This is a temporary script file."""
+Calculate the sum of the digits of a number.
+
+"""
 import math
 
 number_string = input()
@@ -25,12 +27,7 @@ def sum_of_digits(any_num):
 print(sum_of_digits(int(my_str)))
 
     
-
-
-
-
-
-            
+       
                 
                 
 
