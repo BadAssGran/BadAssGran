@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  7 15:51:51 2021
 
-@author: Teodora
-"""
 """
 The Matrix Rules
 
